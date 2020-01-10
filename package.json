@@ -1,0 +1,22 @@
+{
+  "name": "travel-blog",
+  "version": "1.0.0",
+  "description": "A blog to record my travels",
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "babel-plugin-emotion": "^10.0.27",
+    "next": "^9.1.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Joey Dye",
+  "license": "ISC"
+}
